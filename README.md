@@ -31,14 +31,20 @@ I obtained the proxy dataset from Data.world, which comprises various datasets c
 
 <br>
 
-# Data Cleaning/ Preparation
+# Data Cleaning/ Preparation /
 
 In the initial data preparation phase, I performed the following tasks in Power BI through Power Query:
 
-1. Data loading and extracting from the original
+1. Data Transformation
+
+<img width="526" alt="image" src="https://github.com/EddyBoror/Hospital-Emergency-Room/assets/61037075/342defc0-2dff-4af6-9347-6a25554f8a45">
+
+<img width="128" alt="image" src="https://github.com/EddyBoror/Hospital-Emergency-Room/assets/61037075/03ea51d3-4ce3-4abc-a98a-194bbeb9ef3a">
 
 
 3. Data Transformation
+
+<img width="128" alt="image" src="https://github.com/EddyBoror/Hospital-Emergency-Room/assets/61037075/37ef76da-f559-4f39-9ae3-01ff97746e14">
 
 
 <br>
