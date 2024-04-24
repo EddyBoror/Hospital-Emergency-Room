@@ -19,7 +19,7 @@ The next project was something new and thrilling for me. I was excited to dive i
 
 
 # Data Sources
-I obtained the proxy dataset from Data.world, which comprises various datasets contributed by the community. It's important to note that the information within the dataset is not real, as it's fabricated to avoid HIPAA violations and is solely used for project development purposes.
+I obtained the proxy dataset from Data.world, which comprises various datasets contributed by the community. It's important to note that the information within the dataset is not real, as it's made up by the data world community to avoid HIPAA violations and is solely used for project development purposes.
 
 [Download here](https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Hospital+ER.csv)
 
