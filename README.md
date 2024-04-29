@@ -65,10 +65,13 @@ Added a new AM and PM Column for slicer feature used in the interactive dashboar
 
 ### Power BI Interactive Dashboard
 
-
+![PBIDesktop_ow7FuQcV99](https://github.com/EddyBoror/Hospital-Emergency-Room/assets/61037075/e0b836fc-2d1a-4d73-9030-26e949fe6686)
 
 <br>
+
+Emergency room (ER) staff can see a detailed overview of patient demographics and referral patterns through the ER Patient Demographics and Referral Analysis Dashboard. The dashboard includes visualizations such as average wait time, a patient satisfaction measure, and gender slicers for filtering data by male and female patients. Real-time insights on the patient experience are provided by these indicators. A line graph showing patient age by age group is also included on the dashboard, enabling personnel to see which age groups are most frequently visiting the emergency room. Understanding the racial background of patients and referral sources is made easier with the help of bar charts, which further break down patient race within patient numbers and department referrals. Last but not least, a heatmap that shows patient race by month and correlates it with the average patient age aids staff in seeing patterns in demographic and age distribution across time. Based on demographic trends and referral sources, the dashboard's interactive features enable emergency room staff to make well-informed decisions about patient care methods and resource allocation.
 
 
 # Conclusion Analysis
 
+Working with this proxy healthcare dataset has provided me with valuable insights into data analysis within a different field, and I thoroughly enjoyed the process of analyzing the data and creating the dashboard. It's fascinating to see the wealth of information that can be uncovered through visualization and interactive tools. I look forward to applying this experience to real-world scenarios in the future and creating more impactful dashboards.
