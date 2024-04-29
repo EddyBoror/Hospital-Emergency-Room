@@ -53,17 +53,16 @@ Added a new AM and PM Column for slicer feature used in the interactive dashboar
 
 ### Insight 1
 
+![PBIDesktop_pgaLvTNtBZ](https://github.com/EddyBoror/Hospital-Emergency-Room/assets/61037075/33203ad9-855e-43aa-ab39-bd6d9e619ec1)
 
+This is my first encounter with a decomposition tree visualization, and I found it interesting to incorporate into my analysis. As you can see the  decomposition tree chart is showing off the total # of patients within the dataset. But it can also branch off to discuss the race out of the total patient numbers, into which gender was the highest of that patient category and which department referred them, and lastly, on what day was the highest number of patients going into the ER throughout the week. All this I’m showing off right now in real time. I cannot do this on Tableau without recording it. 
 
-
-- 
--
 
 ### Insight 2
 
 
 
-### Power BI Interactive Dashboard
+# Power BI Interactive Dashboard
 
 ![PBIDesktop_ow7FuQcV99](https://github.com/EddyBoror/Hospital-Emergency-Room/assets/61037075/e0b836fc-2d1a-4d73-9030-26e949fe6686)
 
