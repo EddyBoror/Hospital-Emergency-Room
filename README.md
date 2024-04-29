@@ -57,8 +57,7 @@ Added a new AM and PM Column for slicer feature used in the interactive dashboar
 
 This is my first encounter with a decomposition tree visualization, and I found it interesting to incorporate into my analysis. As you can see the  decomposition tree chart is showing off the total # of patients within the dataset. But it can also branch off to discuss the race out of the total patient numbers, into which gender was the highest of that patient category and which department referred them, and lastly, on what day was the highest number of patients going into the ER throughout the week. All this I’m showing off right now in real time. I cannot do this on Tableau without recording it. 
 
-
-### Insight 2
+The analysis visualization shows the dataset contains a higher amount of patients with caucasian demographic. The gender is split evenly among the 1063 number of patients. If we drill down to the department that referred them to the ER we see that Gneral practice and Orthopedics were among the top numbers in the dataset. Lastly, we can see that Saturday and Thursdays were the least amount of busy days throughout the week. 
 
 
 
@@ -70,6 +69,8 @@ This is my first encounter with a decomposition tree visualization, and I found 
 
 Emergency room (ER) staff can see a detailed overview of patient demographics and referral patterns through the ER Patient Demographics and Referral Analysis Dashboard. The dashboard includes visualizations such as average wait time, a patient satisfaction measure, and gender slicers for filtering data by male and female patients. Real-time insights on the patient experience are provided by these indicators. A line graph showing patient age by age group is also included on the dashboard, enabling personnel to see which age groups are most frequently visiting the emergency room. Understanding the racial background of patients and referral sources is made easier with the help of bar charts, which further break down patient race within patient numbers and department referrals. Last but not least, a heatmap that shows patient race by month and correlates it with the average patient age aids staff in seeing patterns in demographic and age distribution across time. Based on demographic trends and referral sources, the dashboard's interactive features enable emergency room staff to make well-informed decisions about patient care methods and resource allocation.
 
+
+The analysis visualization reveals that the dataset predominantly consists of patients from the Caucasian demographic. Gender distribution is evenly split among the 1,063 patients. Upon further examination of the referring departments, General Practice and Orthopedics emerge as the top sources of referrals to the ER. Additionally, the data indicates that Saturdays and Thursdays experienced the least activity compared to other days of the week.
 
 # Conclusion Analysis
 
