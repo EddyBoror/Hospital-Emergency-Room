@@ -59,6 +59,12 @@ This is my first encounter with a decomposition tree visualization, and I found 
 
 The analysis visualization shows the dataset contains a higher amount of patients with caucasian demographic. The gender is split evenly among the 1063 number of patients. If we drill down to the department that referred them to the ER we see that Gneral practice and Orthopedics were among the top numbers in the dataset. Lastly, we can see that Saturday and Thursdays were the least amount of busy days throughout the week. 
 
+### Insight 2
+
+<img width="1039" alt="image" src="https://github.com/EddyBoror/Hospital-Emergency-Room/assets/61037075/7e907da1-a5da-4672-b2f7-b878f67cbd70">
+
+
+The bar chart illustrates age groups by race in the dataset. African Americans rank as the second highest demographic, with the largest age group being 66 years and older. Interestingly, the second largest age group comprises patients aged 0-18, preceding the 19-65 age group.
 
 
 # Power BI Interactive Dashboard
